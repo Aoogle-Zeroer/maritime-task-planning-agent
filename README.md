@@ -40,12 +40,7 @@ streamlit run app.py
 
 
 🔧 配置选项
-LLM 服务商配置  
-服务商         	LLM_PROVIDER	  LLM_MODEL_NAME	          LLM_BASE_URL
-DeepSeek	      deepseek      	deepseek-chat	            https://api.deepseek.com
-OpenAI	        openai	        gpt-3.5-turbo	            https://api.openai.com/v1
-OpenRouter	    openrouter	    deepseek/deepseek-chat	  https://openrouter.ai/api/v1
-Ollama(本地)	  ollama	        qwen2.5	                  http://localhost:11434
+<img width="963" height="218" alt="image" src="https://github.com/user-attachments/assets/882663c5-6615-4195-8315-13de3e742070" />
 
 📝 开发计划
  支持更多障碍物形状（多边形、矩形）
@@ -68,6 +63,7 @@ Ollama(本地)	  ollama	        qwen2.5	                  http://localhost:11434
 📧 联系方式
 作者：Aoogle-Zeroer
 邮箱：2261542172@qq.com
+
 
 
 
