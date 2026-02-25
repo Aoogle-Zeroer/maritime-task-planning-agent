@@ -1,4 +1,4 @@
-<img width="995" height="323" alt="image" src="https://github.com/user-attachments/assets/06b74ca7-2a6c-456e-83db-2c0d3405296e" /># 🚢 海上作业任务规划智能体
+# 🚢 海上作业任务规划智能体
 
 基于大语言模型（LLM）的海上作业任务规划智能体，实现自然语言指令→路径规划→仿真演示的完整流程。
 
@@ -104,6 +104,7 @@ Ollama(本地)	  ollama	        qwen2.5	                  http://localhost:11434
 📧 联系方式
 作者：Aoogle-Zeroer
 邮箱：2261542172@qq.com
+
 
 
 
